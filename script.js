@@ -1,7 +1,7 @@
 const claimBtn = document.getElementById("claimBtn");
 const fbShare = document.getElementById("fb-share");
 
-const monetizationUrl = "https://your-adsterra-or-rotator-link.com";
+const monetizationUrl = "https://www.profitableratecpm.com/gzc0auku6?key=1c7bc620c901ec892754919ccc314242";
 
 let claimed = false;
 
